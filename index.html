@@ -554,8 +554,7 @@
                 card.innerHTML = `
                     <div class="game-header">
                         <img class="game-cover" src="${game.coverImage}" 
-                             alt="${game.name}" 
-                             onerror="this.src='https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg?t=1708611645'">
+                             alt="${game.name}">
                         <div class="game-overlay">
                             <h3 class="game-title">${game.name}</h3>
                             <p class="game-title-cn">${game.nameCn}</p>
@@ -598,9 +597,6 @@
             if (!game) return;
             
             document.getElementById('modalCover').src = game.coverImage;
-            document.getElementById('modalCover').onerror = function() {
-                this.src = 'https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg?t=1708611645';
-            };
             document.getElementById('modalTitle').textContent = game.name;
             document.getElementById('modalTitleCn').textContent = game.nameCn;
             document.getElementById('modalDeveloper').textContent = game.developer;
@@ -628,8 +624,7 @@
                     const galleryItem = document.createElement('div');
                     galleryItem.className = 'gallery-item';
                     galleryItem.innerHTML = `
-                        <img class="gallery-image" src="${img.url}" alt="${img.title}"
-                             onerror="this.src='https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_1.jpg'">
+                        <img class="gallery-image" src="${img.url}" alt="${img.title}">
                         <div class="gallery-caption">${img.title}</div>
                     `;
                     galleryGrid.appendChild(galleryItem);
