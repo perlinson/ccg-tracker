@@ -11,11 +11,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "Fantasy Flight Games开发的星球大战集换式卡牌游戏，丰富的扩展包和竞技体系。",
     features: ["星球大战IP", "经典角色", "竞技体系", "丰富扩展"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/2420510/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/2420510/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2420510/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2420510/ss_2.jpg", title: "卡牌展示" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2420510/ss_3.jpg", title: "对战场景" }
+      { url: "https://store.steampowered.com/app/2420510/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/2420510/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "官方介绍", url: "https://www.youtube.com/watch?v=moJ4WHYxAb8" }],
     lastUpdated: "2026-02-01"
@@ -29,12 +28,11 @@ const ccgGamesData = [
     status: "已上线",
     description: "MegaCrit开发的经典roguelike卡牌构建游戏，备受玩家喜爱。",
     features: ["roguelike + DBG", "4个独特角色", "高度重玩性", "丰富卡牌"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/646570/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/646570/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_1.jpg", title: "卡牌构建" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_2.jpg", title: "BOSS战" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_3.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_4.jpg", title: "事件选择" }
+      { url: "https://store.steampowered.com/app/646570/ss_1.jpg", title: "卡牌构建" },
+      { url: "https://store.steampowered.com/app/646570/ss_2.jpg", title: "BOSS战" },
+      { url: "https://store.steampowered.com/app/646570/ss_3.jpg", title: "游戏界面" }
     ],
     videos: [{ title: "游戏预告", url: "https://www.youtube.com/watch?v=MoAwL1l4J2A" }],
     lastUpdated: "2026-02-01"
@@ -48,12 +46,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "Shiny Shoe开发的roguelike卡牌游戏，独特的垂直战斗机制。",
     features: ["垂直战斗", "5个种族", "多人对战", "每日挑战"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1102190/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_1.jpg", title: "火车界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_2.jpg", title: "卡牌对战" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_3.jpg", title: "种族选择" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_4.jpg", title: "BOSS战" }
+      { url: "https://store.steampowered.com/app/1102190/ss_1.jpg", title: "火车界面" },
+      { url: "https://store.steampowered.com/app/1102190/ss_2.jpg", title: "卡牌对战" }
     ],
     videos: [{ title: "游戏视频", url: "https://www.youtube.com/watch?v=1qVk6R8l3nY" }],
     lastUpdated: "2026-02-01"
@@ -67,10 +63,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "宝可梦卡牌游戏的移动优先版本，专注于收集和快速对战。",
     features: ["移动优先", "快速收集", "便捷对战", "宝可梦IP"],
-    coverImage: "https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?w=800&h=400&fit=crop",
+    coverImage: "https://store.steampowered.com/app/2637220/capsule_616x353.jpg",
     images: [
-      { url: "https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?w=800&h=400&fit=crop", title: "游戏界面" },
-      { url: "https://images.unsplash.com/photo-1542779283-558d725cfe7c?w=800&h=400&fit=crop", title: "卡牌收藏" }
+      { url: "https://store.steampowered.com/app/2637220/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/2637220/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "官方预告", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -84,11 +80,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "快节奏的移动端卡牌游戏，每局仅需3分钟。",
     features: ["快节奏", "漫威IP", "精美立绘", "全球对战"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1995240/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1995240/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1995240/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1995240/ss_2.jpg", title: "卡牌对战" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1995240/ss_3.jpg", title: "角色展示" }
+      { url: "https://store.steampowered.com/app/1995240/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/1995240/ss_2.jpg", title: "卡牌对战" }
     ],
     videos: [{ title: "游戏视频", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -102,11 +97,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "暴雪出品魔兽主题数字卡牌游戏。",
     features: ["魔兽IP", "佣兵模式", "战棋模式", "冒险模式"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1086940/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1086940/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1086940/ss_1.jpg", title: "对战界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1086940/ss_2.jpg", title: "卡牌展示" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1086940/ss_3.jpg", title: "战棋模式" }
+      { url: "https://store.steampowered.com/app/1086940/ss_1.jpg", title: "对战界面" },
+      { url: "https://store.steampowered.com/app/1086940/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "扩展预览", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -120,11 +114,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "人气数字卡牌游戏，日式幻想风格。",
     features: ["日式幻想", "进化系统", "动画特效", "故事模式"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/453480/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/453480/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/453480/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/453480/ss_2.jpg", title: "卡牌对战" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/453480/ss_3.jpg", title: "角色立绘" }
+      { url: "https://store.steampowered.com/app/453480/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/453480/ss_2.jpg", title: "卡牌对战" }
     ],
     videos: [{ title: "游戏视频", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -138,10 +131,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "英雄联盟IP数字卡牌游戏。",
     features: ["英雄联盟IP", "法术机制", "单人模式", "跨平台"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1203220/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1203220/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1203220/ss_2.jpg", title: "卡牌展示" }
+      { url: "https://store.steampowered.com/app/1203220/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/1203220/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "内容预览", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -155,10 +148,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "万智牌数字版本，复杂策略深度。",
     features: ["万智牌IP", "策略深度", "丰富赛制", "竞技性强"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/2143580/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/2143580/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2143580/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2143580/ss_2.jpg", title: "卡牌展示" }
+      { url: "https://store.steampowered.com/app/2143580/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/2143580/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "扩展预览", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -172,11 +165,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "游戏王数字版本，支持OCG/TCG规则。",
     features: ["游戏王IP", "OCG/TCG规则", "天梯竞技", "丰富卡池"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1449810/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/ss_2.jpg", title: "召唤动画" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/ss_3.jpg", title: "对战场景" }
+      { url: "https://store.steampowered.com/app/1449810/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/1449810/ss_2.jpg", title: "召唤动画" }
     ],
     videos: [{ title: "新卡包", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -192,8 +184,7 @@ const ccgGamesData = [
     features: ["迪士尼IP", "魔法冒险", "精美卡牌", "六大阵营"],
     coverImage: "https://images.unsplash.com/photo-1513192977330-4bf15c1d5c2c?w=800&h=400&fit=crop",
     images: [
-      { url: "https://images.unsplash.com/photo-1513192977330-4bf15c1d5c2c?w=800&h=400&fit=crop", title: "卡牌展示" },
-      { url: "https://images.unsplash.com/photo-1503095392237-fc559cc2963e?w=800&h=400&fit=crop", title: "角色设计" }
+      { url: "https://images.unsplash.com/photo-1513192977330-4bf15c1d5c2c?w=800&h=400&fit=crop", title: "卡牌展示" }
     ],
     videos: [{ title: "官方视频", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -207,10 +198,10 @@ const ccgGamesData = [
     status: "已上线",
     description: "快节奏的集换式卡牌游戏。",
     features: ["快节奏对战", "职业系统", "高对抗性", "竞技导向"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1234140/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1234140/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1234140/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1234140/ss_2.jpg", title: "卡牌展示" }
+      { url: "https://store.steampowered.com/app/1234140/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/1234140/ss_2.jpg", title: "卡牌展示" }
     ],
     videos: [{ title: "官方视频", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -226,8 +217,7 @@ const ccgGamesData = [
     features: ["召唤机制", "策略战斗", "定期扩展", "丰富卡牌"],
     coverImage: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=400&fit=crop",
     images: [
-      { url: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=400&fit=crop", title: "游戏界面" },
-      { url: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&h=400&fit=crop", title: "卡牌对战" }
+      { url: "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800&h=400&fit=crop", title: "游戏界面" }
     ],
     videos: [{ title: "扩展预览", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -243,8 +233,7 @@ const ccgGamesData = [
     features: ["海贼王IP", "航海冒险", "角色收集", "副本挑战"],
     coverImage: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=400&fit=crop",
     images: [
-      { url: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=400&fit=crop", title: "游戏界面" },
-      { url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=400&fit=crop", title: "角色展示" }
+      { url: "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?w=800&h=400&fit=crop", title: "游戏界面" }
     ],
     videos: [{ title: "宣传片", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -322,10 +311,10 @@ const ccgGamesData = [
     status: "开发中",
     description: "经典DBG杀戮尖塔的续作。",
     features: ["roguelike + DBG", "新角色", "新机制", "高度重玩"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/646570/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/646570/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_1.jpg", title: "原作参考" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/646570/ss_2.jpg", title: "卡牌构建" }
+      { url: "https://store.steampowered.com/app/646570/ss_1.jpg", title: "原作参考" },
+      { url: "https://store.steampowered.com/app/646570/ss_2.jpg", title: "卡牌构建" }
     ],
     videos: [{ title: "预告", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -339,10 +328,10 @@ const ccgGamesData = [
     status: "开发中",
     description: "怪物火车的续作。",
     features: ["垂直战斗", "新种族", "新机制", "策略深度"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1102190/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_1.jpg", title: "原作参考" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1102190/ss_2.jpg", title: "火车界面" }
+      { url: "https://store.steampowered.com/app/1102190/ss_1.jpg", title: "原作参考" },
+      { url: "https://store.steampowered.com/app/1102190/ss_2.jpg", title: "火车界面" }
     ],
     videos: [{ title: "预告", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -356,9 +345,9 @@ const ccgGamesData = [
     status: "开发中",
     description: "游戏王系列的正统新作。",
     features: ["经典IP", "新技术", "丰富卡池", "竞技比赛"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/1449810/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/1449810/ss_1.jpg", title: "原作参考" }
+      { url: "https://store.steampowered.com/app/1449810/ss_1.jpg", title: "原作参考" }
     ],
     videos: [{ title: "预告", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
@@ -388,11 +377,11 @@ const ccgGamesData = [
     status: "已上线",
     description: "崩坏IP回合制卡牌RPG。",
     features: ["崩坏IP", "回合制RPG", "剧情丰富", "角色收集"],
-    coverImage: "https://cdn.akamai.steamstatic.com/steam/apps/2256550/capsule_616x353.jpg",
+    coverImage: "https://store.steampowered.com/app/2256550/capsule_616x353.jpg",
     images: [
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2256550/ss_1.jpg", title: "游戏界面" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2256550/ss_2.jpg", title: "角色立绘" },
-      { url: "https://cdn.akamai.steamstatic.com/steam/apps/2256550/ss_3.jpg", title: "战斗场景" }
+      { url: "https://store.steampowered.com/app/2256550/ss_1.jpg", title: "游戏界面" },
+      { url: "https://store.steampowered.com/app/2256550/ss_2.jpg", title: "角色立绘" },
+      { url: "https://store.steampowered.com/app/2256550/ss_3.jpg", title: "战斗场景" }
     ],
     videos: [{ title: "宣传片", url: "https://www.youtube.com/watch?v=example" }],
     lastUpdated: "2026-02-01"
